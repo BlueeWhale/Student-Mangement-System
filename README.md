@@ -89,10 +89,9 @@ ruby main.rb
 
 ## 🔮 Future Improvements
 
-* SQLite Database Integration
 * User Authentication
 * GUI Version
-* Ruby on Rails Web Application
+* Ruby on Rails Web Application............................................................................
 
 ## 👨‍💻 Author
 
